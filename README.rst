@@ -1,6 +1,10 @@
 {{ project_name|title }}
 ========================
 
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/GeoNode/geonode-project
+   :target: https://gitter.im/GeoNode/geonode-project?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 You should write some docs, it's good for the soul.
 
 Installation
